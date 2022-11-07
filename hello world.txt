@@ -8,6 +8,7 @@ float salary
 Student s=new student
 system.out.println(s.name);
 systm.out.println(s.age);
+system.out.println(s.surname);
 
 }
 }
