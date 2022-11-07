@@ -1,0 +1,14 @@
+class Student{
+
+public static void string[]args{
+ string name:
+string surname:
+int age:
+float salary
+Student s=new student
+system.out.println(s.name);
+systm.out.println(s.age);
+
+}
+}
+
