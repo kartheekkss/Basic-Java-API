@@ -1,0 +1,14 @@
+class Employees{
+
+public static void string[]args{
+
+string empName;
+string empId;
+float salary;
+
+Employees E=new Employees();
+
+System.out.println(E.empName);
+System.out.println(E.empId);
+}
+}
