@@ -10,5 +10,6 @@ Employees E=new Employees();
 
 System.out.println(E.empName);
 System.out.println(E.empId);
+System.out.println(E.salary);
 }
 }
